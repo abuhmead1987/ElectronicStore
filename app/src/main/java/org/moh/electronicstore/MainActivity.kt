@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this,BrowserActivity::class.java))
         }
 
+        //This is a comment
 
     }
     companion object{
